@@ -1,1 +1,4 @@
 .DS_Store
+microservice-1/env
+microservice-1/.env
+microservice-1/_pycache_
